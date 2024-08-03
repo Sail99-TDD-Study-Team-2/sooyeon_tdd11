@@ -11,3 +11,5 @@
 
 ✅8/3\
 TDD란? 실패하는 테스트 코드를 작성하고, 그에 해당하는 기능을 구현하여 리팩토링 하는 방식.
+https://www.youtube.com/watch?v=Npi21gLIEZM&t=295s (테스트 코드와 TDD 🧪(feat. 프론트엔드, 백엔드를 위한 테스트 코드))
+https://www.youtube.com/watch?v=SFVWo0Z5Ppo&t=1014s (테스트 코드 적용하기 (JUnit, TDD) [ 스프링 부트 (Spring Boot) ])
